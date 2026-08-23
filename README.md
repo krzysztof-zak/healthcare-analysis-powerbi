@@ -25,6 +25,8 @@ The analysis aims to answer questions such as:
 
 ### 🏠 Home
 
+![home](home.png)
+
 The landing page provides navigation to the main sections of the report.
 
 ### ⏱️ LOS Comparison
